@@ -1,3 +1,4 @@
 *.extension filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
 *.log filter=lfs diff=lfs merge=lfs -text
+*.bro filter=lfs diff=lfs merge=lfs -text
