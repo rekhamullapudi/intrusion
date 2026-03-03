@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Spark outputs
+spark-warehouse/
+metastore_db/
+*.crc
+*.log
+
+# Large data files
+data/raw/
+data/processed/
+data/parquet/
+*.parquet
+*.csv.gz
+
+# Model outputs
+models/
+outputs/
+checkpoints/
+
+# Tableau temp
+*.hyper
+*.tde
+
+# IDE
+.vscode/
+.idea/
+
+# Docker cache
+*.tar

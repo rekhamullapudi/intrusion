@@ -1,0 +1,7 @@
+{
+    "dataset": "UNSW-NB15",
+    "records": "2.5 million+",
+    "features": 49,
+    "target": "label_binary",
+    "description": "Network traffic features including protocol, duration, packet statistics and behavior indicators used for intrusion detection"
+}
